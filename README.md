@@ -1,4 +1,4 @@
-![BrightCoders](images/logo.jpg)
+
 
 - [Reto de Diseño Web: Social Proof](#reto-de-diseño-web-social-proof)
   - [Instrucciones:](#instrucciones)
